@@ -58,12 +58,11 @@
 ## Data Visualization
 
 The insights from the above queries were visualized in Power BI, creating interactive dashboards to help stakeholders make data-driven decisions. 
-![Dash Board](Power BI DashBoard.png)
+
+Power BI Dash Board ([Power BI DashBoard.png](https://github.com/JayanthiML/DataSpark-Illuminating-Insights-with-Power-BI/blob/main/Power%20BI%20DashBoard.png))
 
 ## Conclusion
 
 **DataSpark** demonstrates the power of data cleaning, preprocessing, and visualization in uncovering valuable insights from large datasets. By using Python for data manipulation and MySQL for data storage, along with Power BI for visualization, we can provide a robust analytical framework for the global electronics industry.
-
----
 
 This README file provides a clear overview of your project, covering all the major aspects from data handling to analysis and visualization.
