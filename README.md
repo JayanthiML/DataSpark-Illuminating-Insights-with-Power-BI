@@ -59,7 +59,7 @@
 
 The insights from the above queries were visualized in Power BI, creating interactive dashboards to help stakeholders make data-driven decisions. 
 
-([Power BI DashBoard.png](https://github.com/JayanthiML/DataSpark-Illuminating-Insights-with-Power-BI/blob/main/Power%20BI%20DashBoard.png))
+[Power BI DashBoard.png](https://github.com/JayanthiML/DataSpark-Illuminating-Insights-with-Power-BI/blob/main/Power%20BI%20DashBoard.png)
 
 ## Conclusion
 
