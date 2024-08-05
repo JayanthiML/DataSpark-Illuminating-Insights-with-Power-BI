@@ -58,7 +58,7 @@
 ## Data Visualization
 
 The insights from the above queries were visualized in Power BI, creating interactive dashboards to help stakeholders make data-driven decisions. 
-
+![Dash Board](Power BI DashBoard.png)
 
 ## Conclusion
 
